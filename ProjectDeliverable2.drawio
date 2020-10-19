@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T15:18:36.971Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="v5EEyPvkuUMQLXEM9LUd" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-19T16:09:50.065Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="DfIw9ZKvA9Z42fu6YSVk" version="13.8.0" type="github">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
     <mxGraphModel dx="1934" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -102,9 +102,6 @@
         </mxCell>
         <mxCell id="9nVttLgA1WMZ91mnEe1L-161" value="&lt;u&gt;InDate&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="86" y="796" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="9nVttLgA1WMZ91mnEe1L-162" value="OutDate" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="156" y="796" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9nVttLgA1WMZ91mnEe1L-163" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;ROOM_RES&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="141" y="776" width="80" height="20" as="geometry" />
@@ -291,10 +288,10 @@
           <mxGeometry x="34.5" y="626" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nEgtMDDTX5-OxtlX7NQl-40" value="HotelID" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="227" y="796" width="57" height="20" as="geometry" />
+          <mxGeometry x="156" y="796" width="57" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nEgtMDDTX5-OxtlX7NQl-41" value="RNumber" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="284" y="796" width="68" height="20" as="geometry" />
+          <mxGeometry x="214" y="796" width="68" height="20" as="geometry" />
         </mxCell>
         <mxCell id="phVcU_1lUUpoFt258UuJ-8" value="&lt;u&gt;HotelID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="525" y="692" width="59.5" height="20" as="geometry" />
@@ -353,11 +350,11 @@
         <mxCell id="phVcU_1lUUpoFt258UuJ-48" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=west;" parent="1" vertex="1">
           <mxGeometry x="313" y="940" width="87" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="phVcU_1lUUpoFt258UuJ-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF6666;" parent="1" source="phVcU_1lUUpoFt258UuJ-52" target="phVcU_1lUUpoFt258UuJ-48" edge="1">
+        <mxCell id="CG83F-GDAX2XXNqbLBXx-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF6666;" edge="1" parent="1" source="phVcU_1lUUpoFt258UuJ-52" target="phVcU_1lUUpoFt258UuJ-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="phVcU_1lUUpoFt258UuJ-52" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" parent="1" vertex="1">
-          <mxGeometry x="249" y="816" width="70" height="10" as="geometry" />
+          <mxGeometry x="180" y="816" width="70" height="10" as="geometry" />
         </mxCell>
         <mxCell id="phVcU_1lUUpoFt258UuJ-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF6666;" parent="1" source="phVcU_1lUUpoFt258UuJ-54" target="phVcU_1lUUpoFt258UuJ-48" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -466,6 +463,9 @@
         </mxCell>
         <mxCell id="CG83F-GDAX2XXNqbLBXx-21" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="485.5" y="800" width="75.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="CG83F-GDAX2XXNqbLBXx-25" value="OutDate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="283" y="796" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
