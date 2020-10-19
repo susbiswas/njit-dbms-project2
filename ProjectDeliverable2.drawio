@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T14:56:54.041Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="k-Ut6AbMjBvvfvlIPoDG" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-19T15:00:45.242Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="XQi93rc3gAJ2y0SR58CJ" version="13.8.0" type="github">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
     <mxGraphModel dx="1934" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -426,10 +426,10 @@
           <mxGeometry x="-3" y="796" width="89" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CG83F-GDAX2XXNqbLBXx-6" value="&lt;u&gt;InvoiceNumber&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="700" width="90" height="30" as="geometry" />
+          <mxGeometry x="170" y="700" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CG83F-GDAX2XXNqbLBXx-7" value="RDate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="700" width="60" height="30" as="geometry" />
+          <mxGeometry x="260" y="700" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CG83F-GDAX2XXNqbLBXx-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;RESERVATION&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="680" width="100" height="20" as="geometry" />
