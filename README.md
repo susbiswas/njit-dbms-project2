@@ -58,6 +58,10 @@ Offerroom
 * We chose to create `"res_order"`` for connecting the two relations and using both of their keys
 * Also chose to use `"invoiceNumber"`` for the key and relation from `Reservation` to `Room_Res` and `Reserves` --- potentially we could have used `HotelID + Rnumber + InDate` -- we avoided the composite key with a date.
 
+#### Step 7 - Mapping n-ary relationship -
+
+* We have created an entity for the ternary relation "Reserves" between- Credit Card, Customer, and Reservation.
+
 #### Step 8
 * For `Offerroom` we used 8A -- which is to create a single subclass of `Room`
 * For `Review` we used 8B -- which is to create 3 generalizations of review, dropping review from Step 1-  based upon the type - this was most fitting given each had their own references to distinct Weak entities - `Breakfast, Service, and Room` respectively - of which each are their own entities in the logical design from above.
