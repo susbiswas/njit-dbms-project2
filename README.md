@@ -69,7 +69,7 @@ Offerroom
 
 ## Challenges and difficulties
 * continued to use draw.io tool for the logical diagram: https://github.com/jgraph/drawio
-* we chose to use "invoiceNumber" for the key and relation from Reservation to Room_Res and Reserves --- potentially we could have used HotelID + Rnumber + InDate -- we avoided the composite key with a date.
+
 
 # Logical Diagram
 
