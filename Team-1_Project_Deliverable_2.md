@@ -73,7 +73,7 @@ Offerroom
 
 # Logical Diagram
 
-![logical diagram](./ProjectDeliverable2-Page-1.png)
+![logical diagram](./ProjectDeliverable2-logicalDiagram.png)
 
 ## Table Listing
 ![table listing](./ProjectDeliverable2-TableList.png)
